@@ -1,4 +1,4 @@
-# React Practice on Routers ![forthebadge](https://badges.aleen42.com/src/react.svg)
+# React Calculator ![forthebadge](https://badges.aleen42.com/src/react.svg)
 
 ## App Screenshot
 ![image](https://user-images.githubusercontent.com/75917932/207243408-060c77b6-e94a-482a-a85d-88c9cb88ecdf.png)
